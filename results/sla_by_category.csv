@@ -1,0 +1,6 @@
+category,resolved_tickets,median_resolution_hours,sla_breaches,sla_breach_rate_pct
+Access,53,24.91,14,26.42
+Bug,50,21.09,14,28.0
+How-to,49,19.06,10,20.41
+Payment,35,32.05,8,22.86
+Service outage,33,23.34,7,21.21

@@ -1,0 +1,8 @@
+check,passed,details
+required columns present,True,Required analytical columns exist
+ticket IDs unique,False,duplicates=1
+priority values valid,False,invalid=1
+status values valid,True,invalid=0
+team not blank,False,blank=1
+resolution duration non-negative,False,negative=1
+resolved tickets have duration,True,missing=0

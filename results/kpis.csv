@@ -1,0 +1,8 @@
+kpi,value,definition
+Total valid tickets,236.0,Count after critical quality filters
+Resolved tickets,220.0,Resolved status
+Open tickets,16.0,Still open; excluded from resolution-time/SLA rate denominator
+SLA breaches,53.0,Resolved tickets with resolution_hours > sla_hours
+SLA breach rate (%),24.09,Breaches / resolved tickets
+Median resolution time (hours),23.34,Median among resolved tickets
+Mean resolution time (hours),27.69,Mean among resolved tickets

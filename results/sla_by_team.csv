@@ -1,0 +1,5 @@
+team,resolved_tickets,median_resolution_hours,sla_breaches,sla_breach_rate_pct
+Account Services,41,24.09,13,31.71
+Billing,59,23.34,12,20.34
+General,43,23.44,12,27.91
+Technical Support,77,22.27,16,20.78
